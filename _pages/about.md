@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Zhicong Huang is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, China. In 2018, he was the recipient of UM Macau Talent Programme (first batch).
+黄智聪博士，现任华南理工大学吴贤铭智能工程学院副教授（特聘研究员）、博士生导师，主要研究面向新能源汽车及新型电力系统的电力电子技术（无线电能传输机理及应用、大规模新能源场站等值建模、电力电子变换器的神经网络建模方法、新能源车驱动和控制技术等），相关研究获国家级、省部级及校企合作项目支持，以第一/通讯作者发表SCI论文22篇，入选中国科协战略发展部科技智库青年人才计划（2022年），获IEEE电力电子权威期刊TPEL杰出审稿人奖（2021年）、IEEE APPEEC会议最佳论文奖（2019年）、IEEE PEAC会议优秀论文奖（2022年）。
+
+欢迎有志在新能源系统中寻找“双碳”目标答案的同学加入！（电气、控制、机械、电子、计算机等学科背景均可，欢迎电邮联系）
 
 
 # 🔥 News
@@ -47,9 +49,9 @@ Dr. Zhicong Huang is currently an Assistant Professor with the Shien-Ming Wu Sch
 - 2019，IEEE PES APPEEC Best Paper Award
 
 # 📖 Educations
-- PhD in Power Electronics (2018) The Hong Kong Polytechnic University, Hong Kong, China 
-- MPhil in Mechanical and Electronic Engineering (2013) Huazhong University of Science and Technology, Wuhan, China
--  BSc in Electrical Engineering and Automation (2010) Huazhong University of Science and Technology, Wuhan, China
+- 博士，香港理工大学
+- 硕士，华中科技大学
+- 本科，华中科技大学
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
