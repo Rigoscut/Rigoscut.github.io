@@ -41,8 +41,10 @@ Dr. Zhicong Huang is currently an Assistant Professor with the Shien-Ming Wu Sch
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2022，IEEE PEAC优秀论文奖
+- 2022，入选中国科协战略发展部科技智库青年人才计划
+- 2021，电力电子权威期刊IEEE TPEL杰出审稿人奖
+- 2019，IEEE PES APPEEC Best Paper Award
 
 # 📖 Educations
 - PhD in Power Electronics (2018) The Hong Kong Polytechnic University, Hong Kong, China 
