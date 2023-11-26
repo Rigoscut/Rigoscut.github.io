@@ -56,7 +56,12 @@ redirect_from:
 [5] Zhicong Huang*, Siu-Chung Wong, and Chi K. Tse, “An inductive-power-transfer converter with high efficiency throughout battery-charging process,” IEEE Transactions on Power Electronics, vol. 34, no. 10, pp. 10245-10255, Oct. 2019.
 [4] Xiaohui Qu*, Haijun Chu, Zhicong Huang, Siu-Chung Wong, Chi K. Tse, Chunting Chris Mi and Xi Chen, “Wide design range of constant output current using double-sided LC compensation circuits for inductive power transfer applications,” IEEE Transactions on Power Electronics, vol. 34, no. 3, pp. 2364-2374, Mar. 2019.
 [3] Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, “Control design for optimizing efficiency in inductive power transfer systems,” IEEE Transactions on Power Electronics, vol. 33, no. 5, pp. 4523-4534, May 2018.
-[2] Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, “Design of a single-stage inductive-power-transfer converter for efficient EV battery charging,” IEEE Transactions on Vehicular Technology, vol. 66, no. 7, pp. 5808-5821, Jul. 2017.
+
+
+
+[2] Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, “Design of a single-stage inductive-power-transfer converter for efficient EV battery charging,” IEEE Transactions on Vehicular Technology, vol. 66, no. 7, pp. 5808-5821, Jul. 2017.*
+
+
 [1] Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, “Revisiting stability criteria for DC power distribution systems based on power balance,” CPSS Transactions on Power Electronics and Applications, vol. 2, no. 1, Mar. 2017.
 
 # 🎖 Honors and Awards
