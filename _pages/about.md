@@ -161,21 +161,3 @@ redirect_from:
 # 💻 Work experience
 
 - 2020.3至今，华南理工大学，副教授、博导  
-
-# 测试一下添加图片
-
-<img src="../images/500x300.png" style="zoom: 33%;float:right;" />
-
-
-
-![](../images/zhiconghuang.png)
-
-<img src="../images/500x300.png" style="zoom: 33%;float:left;" />
-
-
-
-
-
-# 测试一下添加链接
-
-[华工吴院](https://www2.scut.edu.cn/wusie/)
