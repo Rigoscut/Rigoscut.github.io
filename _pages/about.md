@@ -164,6 +164,13 @@ redirect_from:
 
 # 测试一下添加图片
 
-<img src="../images/500x300.png" style="zoom: 33%;" />
+<img src="../images/500x300.png" style="zoom: 33%;float:right;" />
+
+
 
 ![](../images/zhiconghuang.png)
+
+<img src="../images/500x300.png" style="zoom: 33%;float:left;" />
+
+# 测试一下添加链接
+
