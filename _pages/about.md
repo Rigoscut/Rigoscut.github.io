@@ -178,4 +178,4 @@ redirect_from:
 
 # 测试一下添加链接
 
-[华工吴院]([吴贤铭智能工程学院 (scut.edu.cn)](https://www2.scut.edu.cn/wusie/))
+[华工吴院](https://www2.scut.edu.cn/wusie/)
