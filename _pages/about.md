@@ -164,6 +164,6 @@ redirect_from:
 
 # 测试一下添加图片
 
-![](../images/500x300.png)
+<img src="../images/500x300.png" style="zoom: 33%;" />
 
 ![](../images/zhiconghuang.png)
