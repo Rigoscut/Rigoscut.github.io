@@ -172,5 +172,10 @@ redirect_from:
 
 <img src="../images/500x300.png" style="zoom: 33%;float:left;" />
 
+
+
+
+
 # 测试一下添加链接
 
+[华工吴院]([吴贤铭智能工程学院 (scut.edu.cn)](https://www2.scut.edu.cn/wusie/))
