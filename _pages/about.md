@@ -159,4 +159,11 @@ redirect_from:
 - 一种基于串联-串联补偿无线输电系统及均流方法（中国发明专利，ZL 2021 1 0631395.5）；
 
 # 💻 Work experience
+
 - 2020.3至今，华南理工大学，副教授、博导  
+
+# 测试一下添加图片
+
+![](../images/500x300.png)
+
+![](../images/zhiconghuang.png)
