@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "我的主页"
 excerpt: ""
 author_profile: true
 redirect_from: 
