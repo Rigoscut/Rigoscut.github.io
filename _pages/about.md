@@ -148,16 +148,15 @@ redirect_from:
 - 2021，电力电子权威期刊IEEE TPEL杰出审稿人奖
 - 2019，IEEE PES APPEEC Best Paper Award
 
-# 📖 Educations
-- 博士，香港理工大学
-- 硕士，华中科技大学
-- 本科，华中科技大学
-
 # 💬 Invention Patent
 - Wireless charging circuit and system（美国专利，US11201503B2）
 - 一种恒流恒压自主切换的无线充电系统（中国发明专利，ZL 2021 1 0398355.0）
 - 一种基于串联-串联补偿无线输电系统及均流方法（中国发明专利，ZL 2021 1 0631395.5）；
 
-# 💻 Work experience
 
-- 2020.3至今，华南理工大学，副教授、博导  
+
+# News
+
+# Teaching
+
+# Highlighted Projects
