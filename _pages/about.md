@@ -143,19 +143,62 @@ redirect_from:
  
 
 # 🎖 Honors and Awards
-- 2022，IEEE PEAC优秀论文奖
-- 2022，入选中国科协战略发展部科技智库青年人才计划
-- 2021，电力电子权威期刊IEEE TPEL杰出审稿人奖
-- 2019，IEEE PES APPEEC Best Paper Award
+[1]   2023年，ABB杯智能技术创新大赛（变频器半导体温度预测AI建模挑战赛）二等奖；
+
+
+
+[2]   2022年，青蓝国际创新创业大赛初创组三等奖，“应用于自动导引车和新能源汽车的无线充电装置的研发及产业化”；
+
+
+
+[3]   2022年，IEEE PEAC会议优秀论文奖；
+
+
+
+[4]   2022年，入选中国科协战略发展部科技智库青年人才计划；
+
+
+
+[5]   2021年，IEEE TPEL（电力电子领域权威期刊）杰出审稿人奖；
+
+
+
+[6]   2019年，IEEE PES（电力与能源学会）APPEEC会议最佳论文奖；
+
+
+
+[7]   2022年，第二届“率先杯”未来技术创新大赛初赛优胜奖，“用于出勤战车电能交互的模块化无线充放电装置”；
+
+
+
+[8]   2020年，Outstanding Prize in Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition；
+
+
 
 # 💬 Invention Patent
-- Wireless charging circuit and system（美国专利，US11201503B2）
-- 一种恒流恒压自主切换的无线充电系统（中国发明专利，ZL 2021 1 0398355.0）
-- 一种基于串联-串联补偿无线输电系统及均流方法（中国发明专利，ZL 2021 1 0631395.5）；
+[1]   Wireless charging circuit and system（美国专利，US 11,201,503 B2）；
+
+
+
+[2]   一种仿龙型飞行器（中国发明专利，ZL 2021 1 1498245.8）；
+
+
+
+[3]   一种恒流恒压自主切换的无线充电系统（中国发明专利，ZL 2021 1 0398355.0）；
+
+
+
+[4]   一种基于串联-串联补偿无线输电系统及均流方法（中国发明专利，ZL 2021 1 0631395.5）；
+
+
 
 # 💬 News
 
 <img align="right" src="../images/news.png" style="zoom:25%;" />[吴贤铭智能工程学院](http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm)
+
+
+
+
 
 
 
