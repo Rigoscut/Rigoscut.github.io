@@ -19,4 +19,4 @@ main:
     url: "/#-highlighted-projects"
 
   - title: "News"
-    url: "/#-news"
+    url: "/news"
