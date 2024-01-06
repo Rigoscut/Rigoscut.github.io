@@ -175,7 +175,7 @@ redirect_from:
 
 
 
-# 💬 Invention Patent
+# 🤖 Invention Patent
 [1]   Wireless charging circuit and system（美国专利，US 11,201,503 B2）；
 
 
@@ -194,10 +194,11 @@ redirect_from:
 
 # 💬 News
 
+[吴贤铭智能工程学院](http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm)  
+
+<img align="right" src="../images/news.png" style="zoom:25%;" />
 
 
-# 💬 Highlighted Projects
 
-| [吴贤铭智能工程学院](http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm) | <img align="right" src="../images/news.png" style="zoom:25%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+# 🔔  Highlighted Projects
 
