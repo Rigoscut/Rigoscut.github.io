@@ -155,8 +155,15 @@ redirect_from:
 
 # 💬 News
 
-十大科技的看啊士大夫撒地方大师傅
+<img align="right" src="C:/Jiaweili666.github.io/images/news.png" style="zoom:25%;" />[吴贤铭智能工程学院](http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm)
+
+
+
+
+
+
+
+
 
 # 💬 Highlighted Projects
 
-撒地方阿阿法撒旦
