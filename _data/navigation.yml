@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-- title: "News"
-    url: "/#news"
-
   - title: "Research area"
     url: "/#-research-area"
 
@@ -20,3 +17,6 @@ main:
 
   - title: "Invention Patent"
     url: "/#-invention-patent"
+
+  - title: "Work experience"
+    url: "/#-work-experience"

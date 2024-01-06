@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "黄智聪"
 description              : "South China University of Technology "
-repository               : "https://Jiaweili666.github.io"
+repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "黄智聪"
-  avatar           : "images/zhiconghuang.png"  #头像
+  avatar           : "images/zhiconghuang.png"
   bio              : 
   location         : "Guangzhou, China"
   employer         :
