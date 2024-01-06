@@ -170,7 +170,3 @@ redirect_from:
 <img src="../images/500x300.png" style="zoom: 33%;" />
 
 ![](../images/zhiconghuang.png)
->>>>>>> parent of 7919e62 (Update about.md)
-=======
-- 2020.3至今，华南理工大学，副教授、博导  
->>>>>>> parent of a3bdd57 (Update about.md)
