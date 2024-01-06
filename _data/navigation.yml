@@ -12,11 +12,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Invention Patent"
     url: "/#-invention-patent"
 
   - title: "Highlighted Projects"
     url: "/#-highlighted-projects"
+
+  - title: "News"
+    url: "/#-news"
