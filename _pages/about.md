@@ -216,19 +216,27 @@ redirect_from:
 # Highlighted Projects
 
 <html>
+
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
                 <!--左侧内容-->
-                左侧
+                [吴贤铭智能工程学院](http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm)  
             </td>
             <td>
                 <!--右侧内容-->
-                右侧
+                <img src="../images/news.png" style="zoom:25%;" />
             </td>
         </tr>
     </table>
+
 </html>
+
+
+
+
+
+
 
 # Teaching
 
