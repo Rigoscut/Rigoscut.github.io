@@ -211,9 +211,7 @@ redirect_from:
             </td>
             <td>
                 <!--右侧内容-->
-                <body> 
-        		<p><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">简单链接</a></p> 
-        		</body>  
+        		<p><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">简单链接</a></p>  
             </td>
         </tr>
     </table>
