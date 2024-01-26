@@ -221,11 +221,13 @@ redirect_from:
         <tr>
             <td>
                 <!--左侧内容-->
-                [吴贤铭智能工程学院](http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm)  
+    			<img src="../images/news.png" style="zoom:25%;" />
             </td>
             <td>
                 <!--右侧内容-->
-                <img src="../images/news.png" style="zoom:25%;" />
+                <body> 
+        		<p><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">简单链接</a></p> 
+        		</body>  
             </td>
         </tr>
     </table>
