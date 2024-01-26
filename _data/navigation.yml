@@ -4,22 +4,23 @@ main:
     url: "/#about-me"
 
   - title: "Research area"
-    url: "/#-research-area"
+    url: "/#research-area"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Invention Patent"
-    url: "/#-invention-patent"
+    url: "/#invention-patent"
 
   - title: "Highlighted Projects"
-    url: "/#-highlighted-projects"
+    url: "/#highlighted-projects"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
+    #-表示空格
 
 #  - title: "Teaching"
 #     url: "/#-teaching"
