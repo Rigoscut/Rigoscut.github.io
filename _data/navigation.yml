@@ -19,7 +19,7 @@ main:
     url: "/#highlighted-projects"
 
   - title: "News"
-    url: "/#news"
+    url: "/news"
     #-表示空格
 
  - title: "Teaching"
