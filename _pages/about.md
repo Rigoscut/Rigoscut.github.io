@@ -211,7 +211,7 @@ redirect_from:
             </td>
             <td>
                 <!--右侧内容-->
-                发射点发的规范化建设的风格化风格化刚刚风格和合成过程工程采购
+                发射点发的规范化建设的风格化风格化刚刚风
         		<p><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a></p>  
             </td>
         </tr>
