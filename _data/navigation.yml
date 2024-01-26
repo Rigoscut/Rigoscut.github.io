@@ -22,5 +22,5 @@ main:
     url: "/#news"
     #-表示空格
 
-#  - title: "Teaching"
-#     url: "/#-teaching"
+ - title: "Teaching"
+    url: "/#-teaching"
