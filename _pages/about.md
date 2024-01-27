@@ -228,6 +228,7 @@ redirect_from:
         </td>
     </tr>
 </table>
+
 <table>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -258,6 +259,7 @@ redirect_from:
         </td>
     </tr>
 </table>
+
 <table>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
