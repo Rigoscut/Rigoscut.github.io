@@ -203,7 +203,6 @@ redirect_from:
 
 # Highlighted Projects
 
-<!DOCTYPE html>
 <html lang="zh-CN">
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
