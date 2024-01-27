@@ -219,7 +219,7 @@ redirect_from:
         <td>
             <!--右侧内容-->
             这是吴贤铭智能工程学院最好的老师！
-            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a> 
+            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">详细内容...</a> 
         </td>
     </tr>
 </table>
@@ -252,7 +252,7 @@ redirect_from:
         <td>
             <!-- 右侧内容 -->
             这是吴贤铭智能工程学院最牛逼的老师！
-            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>  
+            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">详细内容...</a>  
         </td>
     </tr>
 </table>
@@ -281,7 +281,7 @@ redirect_from:
         <td>
             <!-- 右侧内容 -->
             这是吴贤铭智能工程学院最帅气的老师！
-            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>  
+            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">详细内容...</a>  
         </td>
     </tr>
 </table>
