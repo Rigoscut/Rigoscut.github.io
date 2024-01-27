@@ -1,11 +1,21 @@
 ---
 permalink: /news
-title: ""
-excerpt: ""
-author_profile: false
-redirect_from: 
+title: "最新新闻"
+excerpt: "这是最新新闻的摘要内容。"
+author_profile: true
+redirect_from:
   - /others/
   - /others.html
+layout: post
+date: 2024-01-27
+categories:
+  - 新闻
+tags:
+  - 更新
+  - 网站
+image: /images/news-thumbnail.jpg
+published: true
+comments: true
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
