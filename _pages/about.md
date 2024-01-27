@@ -208,7 +208,7 @@ redirect_from:
     <tr>
         <td>
             <!--左侧内容-->
-            <img src="../images/news.png" style="zoom:25%;" />
+            <img src="../images/news.png" />
         </td>
         <td>
             <!--右侧内容-->
