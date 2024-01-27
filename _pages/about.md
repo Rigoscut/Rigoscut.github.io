@@ -216,6 +216,7 @@ redirect_from:
         </td>
     </tr>
 </table>
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -253,8 +254,9 @@ redirect_from:
 </table>
 </body>
 </html>
-# Teaching
 
+
+# Teaching
 **教研项目：**
 
 - 基于处理器在环的嵌入式课程实验教学方案的研究，广东省本科高校教学质量与教学改革工程项目；
@@ -265,4 +267,3 @@ redirect_from:
 
 - （本科）嵌入式系统与设计、电路导论、应用微积分
 - （研究生）嵌入式系统与边缘人工智能、数字伺服系统
-
