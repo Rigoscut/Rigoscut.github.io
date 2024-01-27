@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -145,6 +146,7 @@ redirect_from:
  
 
 # Honors and Awards
+
 [1]   2023年，ABB杯智能技术创新大赛（变频器半导体温度预测AI建模挑战赛）二等奖；
 
 
@@ -201,53 +203,21 @@ redirect_from:
 
 # Highlighted Projects
 
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td>
+            <!--左侧内容-->
+            <img src="../images/news.png" style="zoom:25%;" />
+        </td>
+        <td>
+            <!--右侧内容-->
+            发射点发的规范化建设的风格化风格化刚刚风格和合成过程hjhjklkl就好看了工程采购
+            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a> 
+        </td>
+    </tr>
+</table>
 
-
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        table {
-            width: 80%; /* 设置表格宽度为80% */
-            margin-left: auto; /* 将表格左侧与父元素左侧对齐 */
-            margin-right: auto; /* 将表格右侧与父元素右侧对齐 */
-        }
-    </style>
-</head>
-<body
-
-<!DOCTYPE html> 
-<html lang="zh-CN"> 
-    <head>  
-        <meta charset="UTF-8">    
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">     			<style>    
-        table {        
-            width: 50%; /* 设置表格宽度为80% */ 
-            margin-left: auto; /* 将表格左侧与父元素左侧对齐 */         margin-right: auto; /* 将表格右侧与父元素右侧对齐 */         }    
-        </style> 
-    </head> 
-    <body> 
-        <table>    
-            <tr>     
-                <td>       
-                    <img src="../images/news.png" style="zoom: 25%;" alt="News Image">         </td>    
-                <td>   
-                    发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看地方大师大师傅但是方式撒地方所发生的发士大夫傅似的电风扇发射点发了工程采购             
-                    <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>           </td>     </tr> </table>  </body>
-
-<!DOCTYPE html> <html lang="zh-CN">
-<head>     
-<meta charset="UTF-8">     
-<meta name="viewport" content="width=device-width, initial-scale=1.0">     
-    <style>         table {             width: 100%; /* 设置表格宽度为80% */             }          colgroup {             width: 50%; /* 设置左侧单元格宽度为20% */         }          col {             width: 50%; /* 设置右侧单元格宽度为80% */         }     </style> </head> <body>  <table>     <colgroup>         <col style="width: 20%;">     </colgroup>     <col>     <tr>         <td>             <!-- 左侧内容 -->             <img src="../images/news.png" style="zoom: 25%;" alt="News Image">         </td>         <td>             <!-- 右侧内容 -->             发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>           </td>     </tr> </table>  </body> </html>
-
-
-
-<!DOCTYPE html> <html lang="zh-CN"> <head>     <meta charset="UTF-8">     <meta name="viewport" content="width=device-width, initial-scale=1.0">     <style>         table {             width: 80%; /* 设置表格宽度为80% */         }          colgroup {             width: 50%; /* 设置左侧单元格宽度为20% */         }          col {             width: 50%; /* 设置右侧单元格宽度为80% */         }     </style> </head> <body>  <table>     <colgroup>         <col style="width: 20%;">     </colgroup>     <col>     <tr>         <td>             <!-- 左侧内容 -->             <img src="../images/news.png" style="zoom: 25%;" alt="News Image">         </td>         <td>             <!-- 右侧内容 -->             发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>           </td>     </tr> </table>  </body> </html>
-
-
+<!DOCTYPE html> <html lang="zh-CN"> <head>     <meta charset="UTF-8">     <meta name="viewport" content="width=device-width, initial-scale=1.0">     <style>         table {             width: 100%; /* 设置表格宽度为80% */         }          colgroup {             width: 20%; /* 设置左侧单元格宽度为20% */         }          col {             width: 80%; /* 设置右侧单元格宽度为80% */         }     </style> </head> <body>  <table>     <colgroup>         <col style="width: 20%;">     </colgroup>     <col>     <tr>         <td>             <!-- 左侧内容 -->             <img src="../images/news.png" style="zoom: 25%;" alt="News Image">         </td>         <td>             <!-- 右侧内容 -->             发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>           </td>     </tr> </table>  </body> </html>
 
 # Teaching
 
@@ -261,3 +231,4 @@ redirect_from:
 
 - （本科）嵌入式系统与设计、电路导论、应用微积分
 - （研究生）嵌入式系统与边缘人工智能、数字伺服系统
+
