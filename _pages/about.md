@@ -219,7 +219,9 @@ redirect_from:
 
 </html>
 
-
+<div class="container"> 
+<div class="left">我是侧边栏</div>  
+<div class="right">我是内容区域</div> </div>
 
 
 
