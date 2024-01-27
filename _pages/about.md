@@ -212,20 +212,24 @@ redirect_from:
             <td>
                 <!--右侧内容-->
                 发射点发的规范化建设的风格化风格化刚刚风格和合成过程hjhjklkl就好看了工程采购
-        		<p><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a></p>  
+        		<p nowrap><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a></p>  
             </td>
         </tr>
     </table>
 
 </html>
 
-<div class="container"> 
-<div class="left">我是侧边栏</div>  
-<div class="right">我是内容区域</div> </div>
 
 
 
 
+.container {  
+
+height: 500px;  position: relative; } 
+
+.left {  width: 240px;  height: 100%;  position: absolute;  background-color: lightskyblue; }
+
+ .right {  height: 100%;  margin-left: 240px;  background-color: red; }
 
 # Teaching
 
