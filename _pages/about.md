@@ -216,21 +216,19 @@ redirect_from:
         </td>
     </tr>
 </table>
-
-<!DOCTYPE html>
-<html lang="zh-CN">
+<!DOCTYPE html><html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         table {
-            width: 80%; /* 设置表格宽度为80% */
+            width: 100%; /* 设置表格宽度为80% */
         }
         colgroup {
-            width: 20%; /* 设置左侧单元格宽度为20% */
+            width: 50%; /* 设置左侧单元格宽度为20% */
         }
         col {
-            width: 80%; /* 设置右侧单元格宽度为80% */
+            width: 50%; /* 设置右侧单元格宽度为80% */
         }
     </style>
 </head>
