@@ -198,11 +198,6 @@ redirect_from:
 
 
 # News
-
-
-
-# Highlighted Projects
-
 <html lang="zh-CN">
 <table style="margin-left: auto; margin-right: auto;">
      <style>
@@ -224,7 +219,7 @@ redirect_from:
         <td>
             <!--右侧内容-->
             这是吴贤铭智能工程学院最好的老师！
-            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a> 
+            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a> 
         </td>
     </tr>
 </table>
@@ -291,6 +286,9 @@ redirect_from:
     </tr>
 </table>
 </html>
+
+# Highlighted Projects
+
 
 
 # Teaching
