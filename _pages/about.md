@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "huangzhicong"
+excerpt: "huangzhicong的jianli"
 author_profile: true
 redirect_from: 
   - /about/
