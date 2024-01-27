@@ -211,8 +211,8 @@ redirect_from:
         </td>
         <td>
             <!--右侧内容-->
-            发射点发的规范化建设的风格化风格化刚刚风格和合成过程hjhjklkl就好看了工程采购
-    		<p><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a></p>  
+            发射点发的规范化建设的风格化风格化刚刚飒飒的打撒啊倒萨打算倒萨倒萨倒萨阿道夫十三点阿发是否是就好看了工程采购
+    		<a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a> 
         </td>
     </tr>
 </table>
@@ -227,7 +227,7 @@ redirect_from:
         </td>
         <td>
             <!--右侧内容-->
-            发射点发的规范化建设的风格化风格化刚刚风格和合成过程hjhjklkl就好看了工程采购
+            发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购
           <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>  
         </td>
     </tr>
@@ -235,18 +235,50 @@ redirect_from:
 
 
 
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table {
+            width: 80%; /* 设置表格宽度为80% */
+            margin-left: auto; /* 将表格左侧与父元素左侧对齐 */
+            margin-right: auto; /* 将表格右侧与父元素右侧对齐 */
+        }
+    </style>
+</head>
+<body>
+<table>
+    <tr>
+        <td>
+            <!-- 左侧内容 -->
+            <img src="../images/news.png" style="zoom: 25%;" alt="News Image">
+        </td>
+        <td>
+            <!-- 右侧内容 -->
+            发射点发的规范化建设的风格撒旦撒旦撒化风格化刚刚风格和合成过程就好看了工程采购
+            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>  
+        </td>
+    </tr>
+</table>
 
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table {
+            width: 80%; /* 设置表格宽度为80% */
+            margin-left: auto; /* 将表格左侧与父元素左侧对齐 */
+            margin-right: auto; /* 将表格右侧与父元素右侧对齐 */
+        }
+    </style>
+</head>
+<body
 
-
-
-
-.container {  
-
-height: 500px;  position: relative; } 
-
-.left {  width: 240px;  height: 100%;  position: absolute;  background-color: lightskyblue; }
-
- .right {  height: 100%;  margin-left: 240px;  background-color: red; }
+<!DOCTYPE html> <html lang="zh-CN"> <head>     <meta charset="UTF-8">     <meta name="viewport" content="width=device-width, initial-scale=1.0">     <style>         table {             width: 50%; /* 设置表格宽度为80% */             margin-left: auto; /* 将表格左侧与父元素左侧对齐 */             margin-right: auto; /* 将表格右侧与父元素右侧对齐 */         }     </style> </head> <body>  <table>     <tr>         <td>             <!-- 左侧内容 -->             <img src="../images/news.png" style="zoom: 25%;" alt="News Image">         </td>         <td>             <!-- 右侧内容 -->             发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看地方大师大师傅但是方式撒地方所发生的发士大夫傅似的电风扇发射点发了工程采购             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>           </td>     </tr> </table>  </body> </html>
 
 # Teaching
 
