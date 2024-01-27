@@ -201,65 +201,7 @@ redirect_from:
 
 # Highlighted Projects
 
-<table style="margin-left: auto; margin-right: auto;">
-    <tr>
-        <td>
-            <!--左侧内容-->
-			<img src="../images/news.png" style="zoom:25%;" />
-        </td>
-        <td>
-            <!--右侧内容-->
-            发射点发的规范化建设的风格化风格化刚刚飒飒的打撒啊倒萨打算倒萨倒萨倒萨阿道夫十三点阿发是否是就好看了工程采购
-    		<a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a> 
-        </td>
-    </tr>
-</table>
 
-
-
-<table style="margin-left: auto; margin-right: auto;">
-    <tr>
-        <td>
-            <!--左侧内容-->
-            <img src="../images/news.png" style="zoom:25%;" />
-        </td>
-        <td>
-            <!--右侧内容-->
-            发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购
-          <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>  
-        </td>
-    </tr>
-</table>
-
-
-
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        table {
-            width: 80%; /* 设置表格宽度为80% */
-            margin-left: auto; /* 将表格左侧与父元素左侧对齐 */
-            margin-right: auto; /* 将表格右侧与父元素右侧对齐 */
-        }
-    </style>
-</head>
-<body>
-<table>
-    <tr>
-        <td>
-            <!-- 左侧内容 -->
-            <img src="../images/news.png" style="zoom: 25%;" alt="News Image">
-        </td>
-        <td>
-            <!-- 右侧内容 -->
-            发射点发的规范化建设的风格撒旦撒旦撒化风格化刚刚风格和合成过程就好看了工程采购
-            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>  
-        </td>
-    </tr>
-</table>
 
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -288,7 +230,7 @@ redirect_from:
 
 
 
-
+<!DOCTYPE html> <html lang="zh-CN"> <head>     <meta charset="UTF-8">     <meta name="viewport" content="width=device-width, initial-scale=1.0">     <style>         table {             width: 80%; /* 设置表格宽度为80% */         }          colgroup {             width: 20%; /* 设置左侧单元格宽度为20% */         }          col {             width: 80%; /* 设置右侧单元格宽度为80% */         }     </style> </head> <body>  <table>     <colgroup>         <col style="width: 20%;">     </colgroup>     <col>     <tr>         <td>             <!-- 左侧内容 -->             <img src="../images/news.png" style="zoom: 25%;" alt="News Image">         </td>         <td>             <!-- 右侧内容 -->             发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>           </td>     </tr> </table>  </body> </html>
 
 
 
