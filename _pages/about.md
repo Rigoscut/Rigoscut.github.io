@@ -201,8 +201,6 @@ redirect_from:
 
 # Highlighted Projects
 
-<html>
-
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
@@ -217,7 +215,7 @@ redirect_from:
     </tr>
 </table>
 
-</html>
+
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -279,6 +277,20 @@ redirect_from:
 <body
 
 <!DOCTYPE html> <html lang="zh-CN"> <head>     <meta charset="UTF-8">     <meta name="viewport" content="width=device-width, initial-scale=1.0">     <style>         table {             width: 50%; /* 设置表格宽度为80% */             margin-left: auto; /* 将表格左侧与父元素左侧对齐 */             margin-right: auto; /* 将表格右侧与父元素右侧对齐 */         }     </style> </head> <body>  <table>     <tr>         <td>             <!-- 左侧内容 -->             <img src="../images/news.png" style="zoom: 25%;" alt="News Image">         </td>         <td>             <!-- 右侧内容 -->             发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看地方大师大师傅但是方式撒地方所发生的发士大夫傅似的电风扇发射点发了工程采购             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>           </td>     </tr> </table>  </body> </html>
+
+
+
+<!DOCTYPE html> <html lang="zh-CN">
+<head>     
+<meta charset="UTF-8">     
+<meta name="viewport" content="width=device-width, initial-scale=1.0">     
+    <style>         table {             width: 80%; /* 设置表格宽度为80% */             margin-left: auto; /* 将表格左侧与父元素左侧对齐 */             margin-right: auto; /* 将表格右侧与父元素右侧对齐 */         }          colgroup {             width: 50%; /* 设置左侧单元格宽度为20% */         }          col {             width: 50%; /* 设置右侧单元格宽度为80% */         }     </style> </head> <body>  <table>     <colgroup>         <col style="width: 20%;">     </colgroup>     <col>     <tr>         <td>             <!-- 左侧内容 -->             <img src="../images/news.png" style="zoom: 25%;" alt="News Image">         </td>         <td>             <!-- 右侧内容 -->             发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>           </td>     </tr> </table>  </body> </html>
+
+
+
+
+
+
 
 # Teaching
 
