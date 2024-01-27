@@ -212,14 +212,26 @@ redirect_from:
             <td>
                 <!--右侧内容-->
                 发射点发的规范化建设的风格化风格化刚刚风格和合成过程hjhjklkl就好看了工程采购
-        		<p nowrap><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a></p>  
+        		<p><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a></p>  
             </td>
         </tr>
     </table>
 
 </html>
 
-
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td>
+            <!--左侧内容-->
+            <img src="../images/news.png" style="zoom:25%;" />
+        </td>
+        <td>
+            <!--右侧内容-->
+            发射点发的规范化建设的风格化风格化刚刚风格和合成过程hjhjklkl就好看了工程采购
+            <p><a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a></p>  
+        </td>
+    </tr>
+</table>
 
 
 
