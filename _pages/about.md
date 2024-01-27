@@ -223,7 +223,7 @@ redirect_from:
         </td>
         <td>
             <!--右侧内容-->
-            发射点发的规范化建设的风格化风格化刚刚风格和合成过程hjhjklkl就好看了工程采购
+            这是吴贤铭智能工程学院最好的老师！
             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">read more...</a> 
         </td>
     </tr>
@@ -256,7 +256,7 @@ redirect_from:
         </td>
         <td>
             <!-- 右侧内容 -->
-            发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购
+            这是吴贤铭智能工程学院最牛逼的老师！
             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>  
         </td>
     </tr>
@@ -285,7 +285,7 @@ redirect_from:
         </td>
         <td>
             <!-- 右侧内容 -->
-            发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购
+            这是吴贤铭智能工程学院最帅气的老师！
             <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>  
         </td>
     </tr>
