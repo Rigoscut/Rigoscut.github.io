@@ -253,6 +253,40 @@ redirect_from:
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table {
+            width: 100%;
+        }
+        td:nth-child(1) {
+            width: 20%;
+        }
+        td:nth-child(2) {
+            width: 80%;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <!-- 左侧内容 -->
+                <img src="../images/news.png" style="zoom: 25%;" alt="News Image">
+            </td>
+            <td>
+                <!-- 右侧内容 -->
+                发射点发的规范化建设的风格化风格化刚刚风格和合成过程就好看了工程采购
+                <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">阅读更多...</a>  
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
 
 # Teaching
 **教研项目：**
