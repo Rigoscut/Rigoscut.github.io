@@ -203,6 +203,8 @@ redirect_from:
 
 # Highlighted Projects
 
+<!DOCTYPE html>
+<html lang="zh-CN">
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
@@ -216,7 +218,6 @@ redirect_from:
         </td>
     </tr>
 </table>
-<!DOCTYPE html><html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -251,10 +252,6 @@ redirect_from:
     </tr>
 </table>
 </body>
-</html>
-
-<!DOCTYPE html>
-<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -263,10 +260,10 @@ redirect_from:
             width: 100%;
         }
         td:nth-child(1) {
-            width: 20%;
+            width: 60%;
         }
         td:nth-child(2) {
-            width: 80%;
+            width: 40%;
         }
     </style>
 </head>
