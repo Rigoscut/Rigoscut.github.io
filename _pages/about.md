@@ -225,10 +225,10 @@ redirect_from:
             width: 100%; /* 设置表格宽度为80% */
         }
         colgroup {
-            width: 50%; /* 设置左侧单元格宽度为20% */
+            width: 20%; /* 设置左侧单元格宽度为20% */
         }
         col {
-            width: 50%; /* 设置右侧单元格宽度为80% */
+            width: 80%; /* 设置右侧单元格宽度为80% */
         }
     </style>
 </head>
@@ -259,10 +259,10 @@ redirect_from:
             width: 100%;
         }
         td:nth-child(1) {
-            width: 60%;
+            width: 80%;
         }
         td:nth-child(2) {
-            width: 40%;
+            width: 20%;
         }
     </style>
 </head>
