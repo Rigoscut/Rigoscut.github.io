@@ -1,4 +1,5 @@
 ---
+layout: post
 permalink: /
 title: "huangzhicong"
 excerpt: "huangzhicong的jianli"
