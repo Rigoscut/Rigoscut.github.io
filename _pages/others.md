@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /others/
   - /others.html
-layout: post
+layout: default
 date: 2024-01-27
 categories:
   - 新闻
