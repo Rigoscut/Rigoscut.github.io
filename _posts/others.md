@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /
-title: "huangzhicong"
+title: /
 excerpt: "huangzhicong的jianli"
 author_profile: true
 ---
