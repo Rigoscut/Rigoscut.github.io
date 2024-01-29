@@ -30,8 +30,9 @@ redirect_from:
 - 电力电子变换器的建模与控制
 
 
+
+# Research are
 <div style="background-color:#00ff00;color:#0000FF">
-  <h1 id="researcharea">Research area</h1>
   <ul>
     <li>无线电能传输机理及应用</li>
     <li>以新能源为主体的新型电力系统</li>
@@ -40,8 +41,9 @@ redirect_from:
   </ul>
 </div>
 
+
+# Research ar
 <div style="background-color:#ff0000;color:#0000FF">
-  <h1 id="researcharea">Research area</h1>
   <ul>
     <li>无线电能传输机理及应用</li>
     <li>以新能源为主体的新型电力系统</li>
