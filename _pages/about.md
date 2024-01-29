@@ -29,7 +29,7 @@ redirect_from:
 - 新能源汽车驱动和控制技术
 - 电力电子变换器的建模与控制
 
-<div <div style="background-color:#ff0000;color:#0000FF">
+<div style="background-color:#ff0000;color:#0000FF">
   <h1 id="researcharea">Research area</h1>
   <ul>
     <li>无线电能传输机理及应用</li>
