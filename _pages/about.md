@@ -25,9 +25,7 @@ redirect_from:
 
 
 <div style="background-color: #FFFF00;">
-
-# Research area
-
+<h1 id="publications">Research area</h1>
 - 无线电能传输机理及应用
 - 以新能源为主体的新型电力系统
 - 新能源汽车驱动和控制技术
