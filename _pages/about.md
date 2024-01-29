@@ -29,6 +29,15 @@ redirect_from:
 - 新能源汽车驱动和控制技术
 - 电力电子变换器的建模与控制
 
+<div style="color:#0000FF">
+  <h1 id="researcharea">Research area</h1>
+  <ul>
+    <li>无线电能传输机理及应用</li>
+    <li>以新能源为主体的新型电力系统</li>
+    <li>新能源汽车驱动和控制技术</li>
+    <li>电力电子变换器的建模与控制</li>
+  </ul>
+</div>
 
 
 # Publications 
