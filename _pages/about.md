@@ -61,25 +61,21 @@ redirect_from:
             background-color: yellow; /* 这里设置了黄色作为背景颜色 */
         }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/showdown@latest"></script>
 </head>
 <body>
     <p>
       <span class="block">
-        <code markdown>
-          # 啊的方法
-          点啊饿啊的富豪给
-        </code>
-        <script src="https://cdn.jsdelivr.net/npm/marked@3.0.0/marked.min.js"></script>
-        <script>
-          var m=document.querySelectorAll('code[markdown]');
-          for(var i=0;i<m.length;i++){
-            m[i].outerHTML='<div>'+marked(m[i].innerHTML)+'</div>';
-          }
-        </script>
+      <div id="content" style="white-space: pre-wrap;"></div>
+      <script type="text/javascript">
+        var converter = new showdown.Converter();
+        var markdownText = "# Hello World\nThis is a **bold** text.";
+        var htmlContent = converter.makeHtml(markdownText);
+        document.getElementById("content").innerHTML = htmlContent;
+      </script>
       </span>
     </p>
 </body>
-
 
 # Publications 
 
