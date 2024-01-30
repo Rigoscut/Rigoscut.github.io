@@ -71,7 +71,8 @@ redirect_from:
         var markdownText = "# Hello World\nThis is a **bold** text.";
         var htmlContent = converter.makeHtml(markdownText);
         document.getElementById("content").innerHTML = htmlContent;
-      </span></script>
+      </span>
+      </script>
 </body>
 
 # Publications 
