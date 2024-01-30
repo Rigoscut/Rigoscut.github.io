@@ -63,10 +63,21 @@ redirect_from:
     </style>
 </head>
 <body>
-    <p>这是一段有多个文字分块的内容。</p>
-    <p><span class="block">第一个分块</span></p>
-    <p><span class="block">第二个分块</span></p>
-    <p><span class="block">第三个分块</span></p>
+    <p>
+      <span class="block">
+<code markdown>
+# 啊的方法
+  点啊饿啊的富豪给
+</code>
+<script src="https://cdn.jsdelivr.net/npm/marked@3.0.0/marked.min.js"></script>
+<script>
+var m=document.querySelectorAll('code[markdown]');
+for(var i=0;i<m.length;i++){
+m[i].outerHTML='<div>'+marked(m[i].innerHTML)+'</div>';
+}
+</script>
+      </span>
+    </p>
 </body>
 
 
