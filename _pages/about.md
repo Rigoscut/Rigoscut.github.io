@@ -55,19 +55,14 @@ redirect_from:
 
 <head>
     <meta charset="UTF-8">
-    <title>文字分块加背景色</title>
-    <style>
-        .block {
-            background-color: yellow; /* 这里设置了黄色作为背景颜色 */
-        }
-    </style>
     <script src="https://cdn.jsdelivr.net/npm/showdown@latest"></script>
 </head>
 <body>
       <div id="content" style="block;"></div>
       <script type="text/javascript">
         var converter = new showdown.Converter();
-        var markdownText = "# Hello World\nThis is a **bold** text.";
+        var markdownText = "# Hello World
+          This is a **bold** text.";
         var htmlContent = converter.makeHtml(markdownText);
         document.getElementById("content").innerHTML = htmlContent;
       </script>
