@@ -61,8 +61,7 @@ redirect_from:
       <div id="content" style="block;"></div>
       <script type="text/javascript">
         var converter = new showdown.Converter();
-        var markdownText = "# Hello World
-          This is a **bold** text.";
+        var markdownText = "# Hello World\nThis is a **bold** text.";
         var htmlContent = converter.makeHtml(markdownText);
         document.getElementById("content").innerHTML = htmlContent;
       </script>
