@@ -53,6 +53,23 @@ redirect_from:
 </div>
 
 
+<head>
+    <meta charset="UTF-8">
+    <title>文字分块加背景色</title>
+    <style>
+        .block {
+            background-color: yellow; /* 这里设置了黄色作为背景颜色 */
+        }
+    </style>
+</head>
+<body>
+    <p>这是一段有多个文字分块的内容。</p>
+    <p><span class="block">第一个分块</span></p>
+    <p><span class="block">第二个分块</span></p>
+    <p><span class="block">第三个分块</span></p>
+</body>
+
+
 # Publications 
 
 [28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, “Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,” IEEE Journal of Emerging and Selected Topics in Power Electronics, in press.
