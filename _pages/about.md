@@ -64,13 +64,13 @@ redirect_from:
     <script src="https://cdn.jsdelivr.net/npm/showdown@latest"></script>
 </head>
 <body>
+      <div id="content" style="block;"></div>
       <script type="text/javascript">
-        <span class="block">
         var converter = new showdown.Converter();
         var markdownText = "# Hello World\nThis is a **bold** text.";
         var htmlContent = converter.makeHtml(markdownText);
         document.getElementById("content").innerHTML = htmlContent;
-      </span></script>
+      </script>
 </body>
 
 # Publications 
